@@ -1,0 +1,32 @@
+# Configure main menu and social menu
+#[[main]]
+#identifier = "home"
+#name = "Home"
+#url = "/"
+#[main.params]
+#icon = "home"
+#newtab = true
+
+[[social]]
+identifier = "github"
+name = "GitHub"
+url = "https://github.com/ferdo-us"
+
+[social.params]
+icon = "brand-github"
+
+[[social]]
+identifier = "twitter"
+name = "Twitter"
+url = "https://twitter.com/ferdous"
+
+[social.params]
+icon = "brand-twitter"
+
+[[social]]
+identifier = "youtube"
+name = "Youtube"
+url = "https://youtube.com/ferdous"
+
+[social.params]
+icon = "brand-youtube"
