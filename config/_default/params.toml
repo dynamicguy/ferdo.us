@@ -80,11 +80,11 @@ enabled = true
 provider = "disqus"
 
 [comments.disqusjs]
-shortname = ""
+shortname = "ferdo-us"
 apiUrl = ""
 apiKey = ""
-admin = ""
-adminLabel = ""
+admin = "ferdo.us"
+adminLabel = "Nurul Ferdous"
 
 [comments.utterances]
 repo = ""
