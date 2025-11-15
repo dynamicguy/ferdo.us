@@ -26,7 +26,7 @@ icon = "brand-twitter"
 [[social]]
 identifier = "youtube"
 name = "Youtube"
-url = "https://youtube.com/ferdous"
+url = "https://youtube.com/nurulferdous"
 
 [social.params]
 icon = "brand-youtube"
