@@ -82,7 +82,7 @@ provider = "disqus"
 [comments.disqusjs]
 shortname = "ferdo-us"
 apiUrl = "https://disqus.com/api/3.0/"
-apiKey = ""
+apiKey = "GU02ilCb3LneQISnHQpD2gpUUJrcmr77LSMgoDsDkyFmav3dYlzhrMhFPplcp4f4"
 admin = "dynamicguy"
 adminLabel = "Nurul Ferdous"
 
