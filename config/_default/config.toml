@@ -16,3 +16,11 @@ disqusShortname = "ferdo-us"
 
 [pagination]
 pagerSize = 5
+
+enableRobotsTXT = true
+
+[sitemap]
+changeFreq = ''
+disable = false
+filename = 'sitemap.xml'
+priority = -1
