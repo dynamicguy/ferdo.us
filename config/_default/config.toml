@@ -17,7 +17,7 @@ disqusShortname = "ferdo-us"
 [pagination]
 pagerSize = 5
 
-enableRobotsTXT = true
+enableRobotsTXT = false
 
 [sitemap]
 changeFreq = ''
