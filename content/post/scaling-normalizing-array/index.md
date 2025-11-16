@@ -1,6 +1,6 @@
 ---
 title: Scaling and Normalizing Arrays - A Practical Guide for Data Preprocessing
-description: Scaling and Normalizing Arrays - A Practical Guide for Data Preprocessing
+description: In this post, we’ll explore what scaling and normalization mean, the key techniques, when to use each, and how to implement them in Python using NumPy and scikit-learn.
 slug: scaling-normalizing-array
 date: 2025-11-16 00:00:00+0000
 image: cover.jpg
