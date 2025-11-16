@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Software on Programming with Ferdous</title><link>https://ferdo.us/tags/software/</link><description>Recent content in Software on Programming with Ferdous</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 06 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://ferdo.us/tags/software/index.xml" rel="self" type="application/rss+xml"/><item><title>Hello World</title><link>https://ferdo.us/p/hello-world/</link><pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate><guid>https://ferdo.us/p/hello-world/</guid><description>&lt;img src="https://ferdo.us/p/hello-world/cover.jpg" alt="Featured image of post Hello World" /&gt;&lt;h1 id="welcome-to-my-programming-journey"&gt;Welcome to My Programming Journey
+&lt;/h1&gt;&lt;p&gt;Hey there, fellow coders and curious minds! I&amp;rsquo;m Ferdous, a software developer from Bangladesh, and this is the launchpad for my new blog. If you&amp;rsquo;ve ever stared at a blank editor, wrestled with a stubborn bug at 2 AM, or felt that rush when your code finally compiles and runs perfectly—then you&amp;rsquo;re in the right place.&lt;/p&gt;
+&lt;h2 id="why-im-starting-this-blog"&gt;Why I&amp;rsquo;m Starting This Blog
+&lt;/h2&gt;&lt;p&gt;Programming isn&amp;rsquo;t just my job; it&amp;rsquo;s my passion. Over the years, I&amp;rsquo;ve dived into everything from building web apps with JavaScript and React to optimizing backend systems with Python and Node.js. I&amp;rsquo;ve contributed to open-source projects, debugged production crashes under pressure, and learned that every error message is a story waiting to be told.&lt;/p&gt;
+&lt;p&gt;But here&amp;rsquo;s the thing: the best lessons often come from real-world failures and triumphs, not just textbooks. That&amp;rsquo;s what I want to share here—practical insights, code snippets that actually work, and honest takes on the tools and trends shaping our industry.&lt;/p&gt;
+&lt;h2 id="what-you-can-expect"&gt;What You Can Expect
+&lt;/h2&gt;&lt;p&gt;This blog will be your go-to resource for:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Tutorials and How-Tos&lt;/strong&gt;: Step-by-step guides on modern frameworks, algorithms, and best practices. Whether you&amp;rsquo;re a beginner tackling your first &amp;ldquo;Hello World&amp;rdquo; or a seasoned dev optimizing for scale, I&amp;rsquo;ll break it down with clear examples.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Problem-Solving Deep Dives&lt;/strong&gt;: Real bugs I&amp;rsquo;ve squashed, performance bottlenecks I&amp;rsquo;ve fixed, and the &amp;ldquo;aha!&amp;rdquo; moments that followed. Expect code in languages like JavaScript, Python, Go, and more.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Tool Reviews and Tips&lt;/strong&gt;: From VS Code extensions that save hours to deployment strategies on AWS or Vercel—I&amp;rsquo;ll share what works (and what doesn&amp;rsquo;t) in 2025&amp;rsquo;s fast-evolving ecosystem.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Thoughts on the Bigger Picture&lt;/strong&gt;: AI in coding, remote work hacks, career advice for devs in emerging markets like Bangladesh, and the occasional rant about deprecated APIs.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="lets-build-something-awesome-together"&gt;Let&amp;rsquo;s Build Something Awesome Together
+&lt;/h2&gt;&lt;p&gt;I&amp;rsquo;m kicking things off with a post next week on &amp;ldquo;Efficient State Management in React 19&amp;rdquo; – complete with a live demo repo. Subscribe (or follow me on X at @ferdous) to stay in the loop.&lt;/p&gt;
+&lt;p&gt;Got a topic you&amp;rsquo;d love to see? A question about your latest project? Drop a comment below or ping me on X. This blog is as much yours as it is mine.&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s to cleaner code, fewer bugs, and endless curiosity. Let&amp;rsquo;s code!&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Ferdous&lt;/em&gt;&lt;br&gt;
+Dhaka, Bangladesh&lt;br&gt;
+November 15, 2025&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Photo by &lt;a class="link" href="https://unsplash.com/@ffstop" target="_blank" rel="noopener"
+&gt;Fotis Fotopoulos&lt;/a&gt; on &lt;a class="link" href="https://unsplash.com/" target="_blank" rel="noopener"
+&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</description></item></channel></rss>
